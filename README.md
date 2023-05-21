@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/chica_sonriente.jpg" width="200" align="center" />
+<img src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" width="200" align="center" />
 </div>  
   
 
