@@ -46,11 +46,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YesicaChui&show_icons=true&theme=radical" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesicaChui&theme=tokyonight" align="center" /></div> 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YesicaChui&&style=flat-square" align="center" />
