@@ -62,8 +62,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YesicaChui&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YesicaChui&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesicaChui&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)****
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YesicaChui&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesicaChui&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Recent Blog Posts  
   
 
